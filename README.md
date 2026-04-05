@@ -1,4 +1,4 @@
-# SauceDemo-Manual-Testing & QA Portfolio
+# SauceDemo-Manual-Testing & QA Management with Jira 🔍
 Bu proje, bir e-ticaret simülasyonu olan SauceDemo platformu üzerinde gerçekleştirilen uçtan uca manuel test süreçlerini kapsar. Projenin amacı, sadece hataları bulmak değil; bir yazılımın güvenlik, kullanılabilirlik ve iş mantığı (business logic) çerçevesinde kalitesini doğrulamaktır.
 
 ### 📊 Test Senaryoları Özeti (Quick Look)
@@ -40,19 +40,18 @@ Bu projedeki test süreçleri ve hata döngüsü, endüstri standardı olan Jira
 
 Tüm test senaryoları ve tespit edilen hatalar, durumlarına göre (Yapılacaklar, Devam Ediyor, Tamam) anlık olarak takip edilmiştir. Kritik senaryolar önceliklendirilerek (High/Highest Priority) test planına dahil edilmiştir.
 
-Görsel 1: Test süreçlerinin ve önceliklendirmelerin Jira Pano üzerindeki genel görünümü.
-
 
 🐞 Detaylı Hata Raporlama (Bug Reporting)
 
 Tespit edilen Bug-01 (Yetkisiz Erişim) hatası, yazılım ekibinin hatayı en hızlı şekilde anlayıp düzeltebileceği standartlarda dökümante edilmiştir. Rapor; Yeniden Oluşturma Adımları, Beklenen Sonuç ve Gerçekleşen Sonuç gibi kritik teknik detayları içermektedir.
 
-Görsel 2: Tespit edilen kritik güvenlik açığının Jira üzerindeki detaylı hata kaydı.
 
 ![Jira Kanban Board](JIRA-PANO.png)
 *Görsel 1: Test süreçlerinin Kanban Board üzerinde yönetimi.*
 
-![Jira Bug Ticket](Images/jira-bug-detail.png)
+
+
+![Jira Bug Ticket](JIRA-BUG.png)
 *Görsel 2: Tespit edilen kritik hatanın Jira üzerindeki detaylı raporu.*
 
 # ✨ Kullanılabilirlik ve Arayüz (UI/UX) Değerlendirmesi
