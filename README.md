@@ -34,11 +34,11 @@ Beklenen Sonuç: Oturum kontrolü yapılmalı ve kullanıcı tekrar login sayfas
 
 # Proje Yönetimi ve Hata Takibi (Jira)
 
-Bu projedeki test süreçleri ve hata döngüsü, endüstri standardı olan Jira üzerinden profesyonel bir iş akışı ile yönetilmiştir.
+Bu projedeki test süreçleri ve hata döngüsü, endüstri standardı olan Jira üzerinden profesyonel bir iş akışı ile kurgulanıp yönetilmiştir.
 
 📋 Kanban İş Akışı
 
-Tüm test senaryoları ve tespit edilen hatalar, durumlarına göre (Yapılacaklar, Devam Ediyor, Tamam) anlık olarak takip edilmiştir. Kritik senaryolar önceliklendirilerek (High/Highest Priority) test planına dahil edilmiştir.
+Tüm test senaryoları ve tespit edilen hatalar, durumlarına göre (Yapılacaklar, Devam Ediyor, Tamam) anlık olarak takip edilecek şekilde kurgulanmıştır. Kritik senaryolar önceliklendirilerek (High/Highest Priority) test planına dahil edilmiştir.
 
 
 🐞 Detaylı Hata Raporlama (Bug Reporting)
