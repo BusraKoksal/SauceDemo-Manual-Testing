@@ -68,3 +68,5 @@ Manuel test süreçlerinde, uygulamanın sadece teknik olarak çalışması değ
  Hata Yönetimi Görünürlüğü: Yanlış işlemlerde çıkan hata mesajları okunaklı mı ve kullanıcıya çözüm sunuyor mu?
 
  Buton ve Etkileşim Netliği: Tıklanabilir alanlar (Login, Menü vb.) net bir şekilde ayırt edilebiliyor mu?
+
+ Konuyla alakalı medium yazımı incelemek isterseniz 👉  [Manuel Test ve Jira ile Hata Yönetimi](https://medium.com/@KoksalBusra/yazılımın-görünmeyen-defans-hattı-manuel-test-ve-jira-ile-hata-yönetimi-2e4c20655720)
